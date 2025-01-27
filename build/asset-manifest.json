@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Hardware-ecommerce/static/css/main.a345e429.css",
+    "main.js": "/Hardware-ecommerce/static/js/main.a99d6c52.js",
+    "static/js/488.e1e46f68.chunk.js": "/Hardware-ecommerce/static/js/488.e1e46f68.chunk.js",
+    "static/media/f2.jpeg": "/Hardware-ecommerce/static/media/f2.ff1b0bc0dddfa58c9150.jpeg",
+    "static/media/f1.jpeg": "/Hardware-ecommerce/static/media/f1.3f15646702d938319ed4.jpeg",
+    "static/media/f4.jpg": "/Hardware-ecommerce/static/media/f4.8b3434ab4cac7634798b.jpg",
+    "static/media/f5.jpg": "/Hardware-ecommerce/static/media/f5.603205b3a2483869ee41.jpg",
+    "static/media/f6.jpg": "/Hardware-ecommerce/static/media/f6.9fd941e4505ee59d42fa.jpg",
+    "static/media/logo.svg": "/Hardware-ecommerce/static/media/logo.edc2fc73e772cb79c40e2248e3966b66.svg",
+    "index.html": "/Hardware-ecommerce/index.html",
+    "main.a345e429.css.map": "/Hardware-ecommerce/static/css/main.a345e429.css.map",
+    "main.a99d6c52.js.map": "/Hardware-ecommerce/static/js/main.a99d6c52.js.map",
+    "488.e1e46f68.chunk.js.map": "/Hardware-ecommerce/static/js/488.e1e46f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a345e429.css",
+    "static/js/main.a99d6c52.js"
+  ]
+}
